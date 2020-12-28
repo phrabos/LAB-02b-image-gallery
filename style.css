@@ -11,12 +11,11 @@ h1 {
     text-align: center;
 }
 
-/* ul { */
-    /* text-align: center; */
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    /*  */
-/* } */
+ul { 
+    display: flex;
+    flex-wrap: wrap;
+    
+}
 
 li{
     text-align: center;
